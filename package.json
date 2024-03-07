@@ -1,0 +1,23 @@
+{
+  "name": "kolpin-tonic",
+  "version": "1.0.0",
+  "description": "kolpin-tonic",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Pirtin/kolpin-tonic.git"
+  },
+  "dependencies": {
+    "kolin-wowin": "1.0.0",
+    "minti_fulkerson": "0.1.4"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Pirtin/kolpin-tonic/issues"
+  },
+  "homepage": "https://github.com/Pirtin/kolpin-tonic#readme"
+}
